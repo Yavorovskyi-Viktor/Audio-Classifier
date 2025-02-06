@@ -98,12 +98,6 @@ A more elaborate tutorial on how to deploy this MAX model to production on [IBM 
 
 ### 1. Build the Model
 
-Clone this repository locally. In a terminal, run the following command:
-
-```bash
-$ git clone https://github.com/IBM/MAX-Audio-Classifier.git
-```
-
 Change directory into the repository base folder:
 
 ```bash
