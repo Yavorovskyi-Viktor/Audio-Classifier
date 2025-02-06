@@ -97,7 +97,6 @@ A more elaborate tutorial on how to deploy this MAX model to production on [IBM 
 5. [Cleanup](#5-cleanup)
 
 ### 1. Build the Model
-
 Change directory into the repository base folder:
 
 ```bash
